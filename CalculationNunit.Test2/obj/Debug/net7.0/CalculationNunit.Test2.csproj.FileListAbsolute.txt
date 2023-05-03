@@ -4,3 +4,9 @@ c:\C#\Bootcamp\vscode\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationN
 c:\C#\Bootcamp\vscode\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.AssemblyInfoInputs.cache
 c:\C#\Bootcamp\vscode\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.AssemblyInfo.cs
 c:\C#\Bootcamp\vscode\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\bin\Debug\net7.0\CoverletSourceRootsMapping
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\CalculationNunit.Test2\obj\Debug\net7.0\CalculationNunit.Test2.csproj.CoreCompileInputs.cache

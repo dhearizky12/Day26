@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day26\RobotArms\obj\Debug\net7.0\refint\RobotArms.dll
 c:\C#\Bootcamp\vscode\Day26\RobotArms\obj\Debug\net7.0\RobotArms.pdb
 c:\C#\Bootcamp\vscode\Day26\RobotArms\obj\Debug\net7.0\RobotArms.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day26\RobotArms\obj\Debug\net7.0\ref\RobotArms.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\bin\Debug\net7.0\RobotArms.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\bin\Debug\net7.0\RobotArms.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\bin\Debug\net7.0\RobotArms.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\bin\Debug\net7.0\RobotArms.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\bin\Debug\net7.0\RobotArms.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\refint\RobotArms.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\RobotArms.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\RobotArms\obj\Debug\net7.0\ref\RobotArms.dll

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\RobotArms\\RobotArms.csproj",
+      "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\RobotArms\\RobotArms.csproj",
       "projectName": "RobotArms",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\RobotArms\\RobotArms.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\RobotArms\\obj\\",
+      "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\RobotArms\\RobotArms.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\RobotArms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"

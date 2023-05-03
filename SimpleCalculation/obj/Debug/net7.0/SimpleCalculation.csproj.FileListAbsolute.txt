@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day26\SimpleCalculation\obj\Debug\net7.0\refint\SimpleCalc
 c:\C#\Bootcamp\vscode\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.pdb
 c:\C#\Bootcamp\vscode\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day26\SimpleCalculation\obj\Debug\net7.0\ref\SimpleCalculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\bin\Debug\net7.0\SimpleCalculation.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\bin\Debug\net7.0\SimpleCalculation.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\bin\Debug\net7.0\SimpleCalculation.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\bin\Debug\net7.0\SimpleCalculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\bin\Debug\net7.0\SimpleCalculation.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\refint\SimpleCalculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\SimpleCalculation.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\SimpleCalculation\obj\Debug\net7.0\ref\SimpleCalculation.dll

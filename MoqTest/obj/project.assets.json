@@ -6264,19 +6264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\MoqTest\\MoqTest.csproj",
+      "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\MoqTest\\MoqTest.csproj",
       "projectName": "MoqTest",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\MoqTest\\MoqTest.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\MoqTest\\obj\\",
+      "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\MoqTest\\MoqTest.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\MoqTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6288,8 +6288,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\C#\\Bootcamp\\vscode\\Day26\\RobotArms\\RobotArms.csproj": {
-              "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\RobotArms\\RobotArms.csproj"
+            "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\RobotArms\\RobotArms.csproj": {
+              "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\RobotArms\\RobotArms.csproj"
             }
           }
         }

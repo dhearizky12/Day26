@@ -13,3 +13,18 @@ c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\refint\Calculation.dll
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\Calculation.pdb
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\Calculation.genruntimeconfig.cache
 c:\C#\Bootcamp\vscode\Day26\Calculation\obj\Debug\net7.0\ref\Calculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\bin\Debug\net7.0\Calculation.exe
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\bin\Debug\net7.0\Calculation.deps.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\bin\Debug\net7.0\Calculation.runtimeconfig.json
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\bin\Debug\net7.0\Calculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\bin\Debug\net7.0\Calculation.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.csproj.AssemblyReference.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfoInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.AssemblyInfo.cs
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.csproj.CoreCompileInputs.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\refint\Calculation.dll
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.pdb
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\Calculation.genruntimeconfig.cache
+d:\Dhea_Bootcamp\learn\Pertemuan 26\Day26\Calculation\obj\Debug\net7.0\ref\Calculation.dll

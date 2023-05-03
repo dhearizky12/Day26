@@ -6264,19 +6264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\SimpleCalculation.Test\\SimpleCalculation.Test.csproj",
+      "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\SimpleCalculation.Test\\SimpleCalculation.Test.csproj",
       "projectName": "SimpleCalculation.Test",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\SimpleCalculation.Test\\SimpleCalculation.Test.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\SimpleCalculation.Test\\obj\\",
+      "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\SimpleCalculation.Test\\SimpleCalculation.Test.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\SimpleCalculation.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6288,8 +6288,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\C#\\Bootcamp\\vscode\\Day26\\SimpleCalculation\\SimpleCalculation.csproj": {
-              "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\SimpleCalculation\\SimpleCalculation.csproj"
+            "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\SimpleCalculation\\SimpleCalculation.csproj": {
+              "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\SimpleCalculation\\SimpleCalculation.csproj"
             }
           }
         }

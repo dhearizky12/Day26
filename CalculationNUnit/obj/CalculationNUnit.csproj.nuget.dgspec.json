@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {}
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {}
   },
   "projects": {
-    "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {
+    "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\CalculationNUnit\\CalculationNUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
+        "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
         "projectName": "CalculationNUnit",
-        "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
-        "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-        "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\CalculationNUnit\\obj\\",
+        "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\CalculationNUnit\\CalculationNUnit.csproj",
+        "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+        "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\CalculationNUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"

@@ -6130,19 +6130,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+    "C:\\Users\\Formulatrix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+      "projectUniqueName": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\Calculation.Test\\Calculation.Test.csproj",
       "projectName": "Calculation.Test",
-      "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\Calculation.Test.csproj",
-      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
-      "outputPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation.Test\\obj\\",
+      "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\Calculation.Test\\Calculation.Test.csproj",
+      "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
+      "outputPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\Calculation.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -6154,8 +6154,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj": {
-              "projectPath": "c:\\C#\\Bootcamp\\vscode\\Day26\\Calculation\\Calculation.csproj"
+            "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\Calculation\\Calculation.csproj": {
+              "projectPath": "d:\\Dhea_Bootcamp\\learn\\Pertemuan 26\\Day26\\Calculation\\Calculation.csproj"
             }
           }
         }
